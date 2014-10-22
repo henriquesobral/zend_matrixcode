@@ -10,7 +10,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0",
+            "dev-master": "1.0"
         }
     },
     "require": {"zendframework/zendframework1": "1.12.*@dev"}
