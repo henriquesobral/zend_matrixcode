@@ -1,0 +1,12 @@
+{
+    "name": "hsobral/zend_matrixcode",
+    "description": "Zend Matrixcode Package for composer",
+    "license": "new BSD",
+    "authors": [
+        {
+            "name": "Henrique Sobral Gomes",
+            "email": "henrique@devideia.com.br"
+        }
+    ],
+    "require": {"zendframework/zendframework1": "1.12.*@dev"}
+}
